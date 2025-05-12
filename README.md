@@ -47,10 +47,10 @@ HeritageHub/<br>
 ### 👤 User Side
 
 - 🏠 **Home Page**
-  (![Screenshot (360)](https://github.com/user-attachments/assets/92f30b09-9dfd-4de3-a146-eda6149cc435))
+![Screenshot (360)](https://github.com/user-attachments/assets/0c98315e-a37d-4ea7-bc60-10b6cde5af20)
 
 - 🕵️‍♀️ **View Heritage Information**
-  (![Screenshot (361)](https://github.com/user-attachments/assets/5caadec9-2f7d-4430-af11-55301f5c26fb))
+![Screenshot (361)](https://github.com/user-attachments/assets/9db34d44-2f1c-4c68-b4ed-631f9e1d44cd)
 
 ---
 
@@ -60,15 +60,15 @@ HeritageHub/<br>
 ![Screenshot (362)](https://github.com/user-attachments/assets/a1a7e352-75f0-4a5d-8920-8d405bea3da2)
 
 - ➕ **Add Heritage Entry**
-![Screenshot (363)](https://github.com/user-attachments/assets/1ff34871-3798-49c1-b93a-786a9d520cb7)
+![Screenshot (363)](https://github.com/user-attachments/assets/0fbb5f51-6bfb-4bbc-9cd6-2381446e2cf1)
 
 -  🧾 **Manage Heritage Entry**
-![Screenshot (364)](https://github.com/user-attachments/assets/93b0b7bf-7be4-4ed1-ada1-2e6d1e67687b)
+![Screenshot (364)](https://github.com/user-attachments/assets/472963b5-3224-4720-bcea-23acaf2af184)
 
 
 
 - 🧑‍💼 **Login Page**
-![Screenshot 2025-05-11 064411](https://github.com/user-attachments/assets/dc4dada5-6eb3-4e2b-9efb-ce85321b4940)
+![Screenshot 2025-05-11 064411](https://github.com/user-attachments/assets/a9ad382b-cc72-45f2-8eaf-e78d3742bdec)
 
 
 
